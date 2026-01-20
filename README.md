@@ -5,7 +5,7 @@ A sleek, dark-themed scientific calculator designed for performing both basic ar
 
 ## 🚀 Demo
 
-[**View Live Demo**](https://your-username.github.io/your-repo-name)
+[**View Live Demo**](https://code2with-pratik.github.io/Scientific-calculator/)
 ## ✨ Features
 
 Based on the interface design, the calculator includes the following functionalities:
