@@ -1,6 +1,6 @@
 # 🧮 Modern Scientific Calculator
 
-![Calculator Screenshot](image_9f953c.png)
+![Calculator Screenshot](image.png)
 A sleek, dark-themed scientific calculator designed for performing both basic arithmetic and advanced mathematical functions. This project features a responsive user interface with a modern color palette and intuitive button layout.
 
 ## 🚀 Demo
